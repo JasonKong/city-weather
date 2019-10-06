@@ -8,6 +8,7 @@ City Weather Search
 2 install
 
   2.1 clone from repository git clone https://github.com/JasonKong/city-weather.git
+  
   2.2 use command below to run in local
       php artisan serve
 
